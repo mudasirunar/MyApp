@@ -4,3 +4,5 @@ firebase-admin
 httpx
 python-dotenv
 pydantic
+requests
+python-multipart
